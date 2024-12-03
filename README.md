@@ -19,4 +19,4 @@ To install the application, run Setup.msi and proceed with all default parameter
     For 64-bit Excel: ExcelAddIn2-AddIn64.xll  <br>
 7. Click OK to enable the add-in. <br>
 
-Your <b>DigitsToWords <b> Add-In is now ready for use!
+Your <b>DigitsToWords </b> Add-In is now ready for use!
