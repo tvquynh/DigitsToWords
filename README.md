@@ -1,3 +1,5 @@
+# Installation 
+Setup.msi
 # How to Use:
 
 1. Open Microsoft Excel after installation. <br>
