@@ -1,11 +1,11 @@
-#How to Use:
+# How to Use:
 
 1. Open Microsoft Excel after installation.
 2. Use the following formulas in your Excel sheet:
     =usd(number) — Converts a number to words in English.
     =vnd(number) — Converts a number to words in Vietnamese.
 
-#If the Add-In Does Not Automatically Load:
+# If the Add-In Does Not Automatically Load:
 1. Open Microsoft Excel.
 2. Go to the File menu and select Options.
 3. Navigate to Add-ins in the left panel.
