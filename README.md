@@ -1,3 +1,10 @@
+# DigitsToWords Add-In for Microsoft Excel
+This add-in is licensed as Free and Open Source software. You are free to use, modify, and distribute it in accordance with the terms of the open-source license. It is provided "as-is," without any warranties or guarantees. <br>
+
+This add-in enables the functionality to convert numbers into words directly within Microsoft Excel. <br>
+
+Author: tvquynh@gmail.com <br>
+URL: https://github.com/tvquynh/DigitsToWords  <br>
 # Installation Instructions
 To install the application, run Setup.msi and proceed with all default parameters.
 # How to Use:
@@ -15,8 +22,8 @@ To install the application, run Setup.msi and proceed with all default parameter
 5. Click Browse, then navigate to the installation folder: <br>
 (typically C:\Program Files (x86)\DigitsToWords) <br>
 6. Select the appropriate file: <br>
-    For 32-bit Excel: ExcelAddIn2-AddIn.xll <br>
-    For 64-bit Excel: ExcelAddIn2-AddIn64.xll  <br>
+    For 32-bit Excel: DigitsToWords-AddIn.xll <br>
+    For 64-bit Excel: DigitsToWords-AddIn64.xll  <br>
 7. Click OK to enable the add-in. <br>
 
 Your <b>DigitsToWords </b> Add-In is now ready for use!
