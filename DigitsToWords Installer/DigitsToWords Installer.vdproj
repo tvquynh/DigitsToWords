@@ -502,6 +502,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -1385,15 +1393,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:DigitsToWords"
-        "ProductCode" = "8:{74187ADA-7771-4AAB-9B2A-227ACE4206D4}"
-        "PackageCode" = "8:{7F2DEE1B-515E-4C67-BC84-32DDE9A7EAF4}"
+        "ProductCode" = "8:{F73DE3BF-5231-48A6-BB9A-D476B0C067B7}"
+        "PackageCode" = "8:{BA38EE20-01B0-4D51-9C6E-D0D40F96DEA8}"
         "UpgradeCode" = "8:{16607E15-FC3B-4309-BB9B-05A317C1C74A}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
-        "DetectNewerInstalledVersion" = "11:FALSE"
-        "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.0"
+        "DetectNewerInstalledVersion" = "11:TRUE"
+        "InstallAllUsers" = "11:FALSE"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:QuynhTV"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -1515,7 +1523,7 @@
                                                                     "Condition" = "8:EXCEL_32_EXISTS"
                                                                     "Transitive" = "11:FALSE"
                                                                     "ValueTypes" = "3:1"
-                                                                    "Value" = "8:C:\\Program Files (x86)\\DigitsToWords\\DigitsToWords-AddIn.XLL"
+                                                                    "Value" = "8:\"C:\\Program Files (x86)\\DigitsToWords\\DigitsToWords-AddIn.XLL\""
                                                                     }
                                                                     "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_84FFDEF42FD64D00AAF81A10EF9B7E1D"
                                                                     {
@@ -1523,7 +1531,7 @@
                                                                     "Condition" = "8:EXCEL_64_EXISTS"
                                                                     "Transitive" = "11:FALSE"
                                                                     "ValueTypes" = "3:1"
-                                                                    "Value" = "8:C:\\Program Files (x86)\\DigitsToWords\\DigitsToWords-AddIn64.XLL"
+                                                                    "Value" = "8:\"C:\\Program Files (x86)\\DigitsToWords\\DigitsToWords-AddIn64.XLL\""
                                                                     }
                                                                 }
                                                             }
