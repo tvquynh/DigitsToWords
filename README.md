@@ -1,5 +1,5 @@
-# Installation 
-Setup.msi
+# Installation Instructions
+To install the application, run Setup.msi and proceed with all default parameters.
 # How to Use:
 
 1. Open Microsoft Excel after installation. <br>
@@ -12,11 +12,11 @@ Setup.msi
 2. Go to the File menu and select Options. <br>
 3. Navigate to Add-ins in the left panel. <br>
 4. At the bottom of the window, choose Excel Add-ins from the dropdown and click Go. <br>
-Click Browse, then navigate to the installation folder: <br>
+5. Click Browse, then navigate to the installation folder: <br>
 (typically C:\Program Files (x86)\DigitsToWords) <br>
-Select the appropriate file: <br>
+6. Select the appropriate file: <br>
     For 32-bit Excel: ExcelAddIn2-AddIn.xll <br>
     For 64-bit Excel: ExcelAddIn2-AddIn64.xll  <br>
-Click OK to enable the add-in. <br>
+7. Click OK to enable the add-in. <br>
 
-Your DigitsToWords Add-In is now ready for use!
+Your <b>DigitsToWords <b> Add-In is now ready for use!
